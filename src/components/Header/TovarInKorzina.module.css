@@ -1,0 +1,89 @@
+.fullTovar{
+border-bottom: 1px solid #82C9DC;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 1vw 4vw 1vw 1vw;
+overflow: hidden;
+}
+.fullTovar>*{
+display: flex;
+align-items: center;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 1.5vw;
+line-height: 1;
+color: #444444;
+text-transform: none;
+}
+.gala{
+width: 2vw;
+height: 2vw;
+z-index: 1;
+}
+.tovar{
+	display: flex;
+	flex-direction: row;
+}
+.foto{
+	height: 12vw;
+	width: 12vw;
+text-align: center;
+position: relative;
+z-index: 0;
+overflow: hidden;
+}
+.fotoTovara{
+height: 100%;
+object-fit: cover;
+}
+.title{
+width: 13vw;
+}
+.countButtom{
+font-style: normal;
+font-weight: 200;
+font-size: 2vw;
+color: #828282;
+width: 2vw;
+height: 2vw;
+border: none;
+margin-left: 1vw;
+margin-right: 1vw;
+background-color: #F2F2F2;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.buttoms{
+	display: flex;
+	flex-direction: row;
+
+}
+.empty{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	padding-top: 10vw;
+	padding-bottom: 10vw;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 2vw;
+line-height: 2;
+color: #444444;
+}
+.katalog{
+	margin: auto;
+	width: 30vw;
+	background-color: #82C9DC;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: 'Philosopher';
+	font-weight: 400;
+	line-height: 1.5;
+	padding: 1vw 3vw 1vw 3vw;
+	font-weight: 500;
+}

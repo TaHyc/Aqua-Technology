@@ -1,0 +1,57 @@
+.product{
+width: 20vw;
+height: 25vw;
+padding: 1vw 1vw 2vw 1vw;
+border: 1px solid #D9D9D9;
+font-family: 'Montserrat';
+margin-top: 4vw;
+margin-left: 6vw;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.prodt{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+.title{
+width: 50%;
+font-size: 1vw;
+color: #444444;
+text-decoration: none;
+}
+.art{
+width: 50%;	
+font-size: 0.7vw;
+color: #BDBDBD;
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+height: 35%;
+}
+.have{
+font-size: 0.8vw;
+color:  #82C9DC;
+}
+.price{
+font-weight: 400;
+font-size: 1.2vw;
+color: #444444; 
+}
+.buy{
+width: 9vw;	
+background-color: #82C9DC;
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 1.2vw;
+text-transform: uppercase;
+color: #FFFFFF;
+padding: 0.5vw;
+text-align: center;
+}
+a {
+	text-decoration: none;
+}

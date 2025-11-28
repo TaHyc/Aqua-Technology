@@ -1,0 +1,112 @@
+.FullProecking{
+display: flex;
+flex-direction: row;
+margin: 5vw 0 0 5vw;
+	overflow: hidden;
+}
+.proectingText{
+	font-family: 'Montserrat';
+margin-top: 3vw;
+font-size: 1.2vw;
+line-height: 2;
+color: #444444;
+text-transform: none;
+width: 95%;
+}
+.proectingTitle{
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 3.5vw;
+text-transform: uppercase;
+color: #444444;
+}
+.proecting1{
+	border-radius: 50%;
+	width: 250%;
+	height: 35vw;
+	margin-right: -5vw;
+}
+.Punkts{
+	display: flex;
+	flex-direction: row;
+}
+.bools{
+
+		display: flex;
+		flex-direction: column;
+}
+.bools img{
+		border-radius: 50%;
+}
+
+.proecting2{
+	position: absolute;
+	margin-top: -5vw;
+	margin-left: -5vw;
+	width: 35vw;
+	height: 35vw;
+}
+.proecting22{
+	width: 20vw;
+	height: 20vw;
+	margin-left: 12vw;
+	margin-top: 30vw;
+}
+.proecting23{
+	width: 13vw;
+	height: 13vw;
+	margin-left: 5vw;
+}
+.punktsText{
+	margin: 5vw 2vw 0 2vw;
+}
+.TextTitle{
+	font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 2vw;
+text-transform: uppercase;
+color: #444444;
+}
+.TextP{
+	margin: 2vw 0 3vw 2vw;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1.2vw;
+line-height: 1.8;
+text-transform: none;
+color: #444444;
+}
+.Down{
+	margin: 2vw 0 0 5vw;
+	display: flex;
+	flex-direction: row;
+	overflow: hidden;
+}
+.proectin31{
+	width: 15vw;
+	height: 15vw;
+	border-radius: 50%;
+	position: absolute;
+	margin-left: 2vw;
+}
+.TextUl{
+	margin: 2vw 0 3vw 0;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1.2vw;
+line-height: 1.8;
+text-transform: none;
+color: #444444;
+}
+.proectin32{
+	margin-top: 15vw;
+		border-radius: 50%;
+	height: 35vw; 
+	width: 35vw;	
+	margin-right: -12vw;
+	position: static;
+}

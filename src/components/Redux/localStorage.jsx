@@ -1,0 +1,6 @@
+export const REACT_APP_FIREBASE_API_KEY = 'AIzaSyC0sJ_PIGQP79aa8Sb8eVP93ftMRhsCGGQ'
+export const REACT_APP_FIREBASE_AUTH_DOMAIN = 'aqua-technology--aunt.firebaseapp.com'
+export const REACT_APP_FIREBASE_PROJECT_ID = 'aqua-technology--aunt'
+export const REACT_APP_FIREBASE_STORAGE_BUCKET = 'aqua-technology--aunt.appspot.com'
+export const REACT_APP_FIREBASE_MESSAGENS_SENDER_ID = '213916080363'
+export const REACT_APP_FIREBASE_APP_ID = '1:213916080363:web:17e37016f15e2cafae06ae'

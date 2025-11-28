@@ -1,0 +1,239 @@
+.mainUp{
+display: flex;
+flex-direction: row;
+margin: 5vw 0 0 5vw;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1.2vw;
+line-height: 1.8;
+color: #444444;
+text-transform: none;
+}
+.rigthFoto{
+		display: flex;
+		flex-direction: column;
+}
+.rigthFoto img{
+	width: 30vw;
+		border-radius: 50%;
+}
+.buildText{
+	font-family: 'Montserrat';
+margin-top: 3vw;
+font-size: 1.2vw;
+line-height: 2;
+color: #444444;
+text-transform: none;
+width: 95%;
+margin-bottom: 4vw;
+position: relative;
+}
+.left{
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 3.5vw;
+text-transform: uppercase;
+color: #444444;
+}
+.buildUl{
+font-family: 'Philosopher';
+font-size: 2.5vw;
+text-transform: uppercase;
+color: #444444;
+ padding-inline-start: 0;
+}
+.buildUl li{
+font-family: 'Montserrat';
+font-size: 1.2vw;
+line-height: 1.8;
+color: #444444;
+text-transform: none;
+}
+.absol{
+	width: 80vw;
+	margin-top: 2vw;
+	position: absolute;
+}
+.min{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1.2vw;
+line-height: 1.8;
+color: #444444;
+text-transform: none;
+}
+.end{
+display: flex;
+flex-direction: row;
+background-color: #82C9DC;
+margin-top: 15vw;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+line-height: 1.5;
+font-size: 1.3vw;
+color: #FFFFFF;
+text-transform: none;
+}
+.endTitle{
+font-family: 'Philosopher';
+font-weight: 400;
+font-size: 2.5vw;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.endText{
+padding: 4vw 4vw 3vw 5vw;
+box-sizing: border-box;
+}
+.endLeft{
+padding-inline-start: 1vw;
+}
+.endFoto{
+  width: 50%;
+}
+.ulGor{
+	display: flex;
+	flex-direction: row;
+}
+.tipical{
+margin: 5vw 5vw 0 5vw;
+display: flex;
+flex-direction: row;
+display: flex;
+align-items: center;
+}
+.tipikalFoto{
+	border-radius: 50%;
+	height: 20vw;
+}
+.tipTitle{
+	margin-left: 6vw;
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 500;
+font-size: 2.5vw;
+text-transform: uppercase;
+color: #444444;
+}
+.tipP{
+margin-top: 4vw;
+font-family: 'Montserrat';
+font-size: 1.3vw;
+font-weight: 400;
+line-height: 1.5;
+text-transform: none;
+}
+
+.konec{
+display: flex;
+flex-direction: row;
+margin-top: 5vw;
+margin-bottom: 10vw;
+}
+.konecTitle{
+text-transform: uppercase;
+font-size: 2.5vw;
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+}
+
+.konecText{
+color: #444444;
+padding: 0 4vw 0 5vw;
+line-height: 1.5;
+box-sizing: border-box;
+ font-family: 'Montserrat';
+font-size: 1.3vw;
+text-transform: none;
+}
+.konecFoto{
+  width: 50%;
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+	
+	  }
+	@media only screen and (min-width: 481px) and (max-width: 768px){
+	
+	  }
+@media only screen and (min-width: 320px) and (max-width: 480px){
+.mainUp{
+margin: 10px;
+}
+.rigthFoto img{
+width: 40vw;
+border-radius: 50%;
+}
+.buildText{
+font-size: 4vw;
+line-height: 1.5;
+}
+.left{
+font-size: 7vw;
+line-height: 1.2;
+}
+.buildUl{
+font-size: 7vw;
+width: 160%;
+line-height: 1.2;
+padding-inline-start: 10px;
+margin-left: -10px;
+}
+.buildUl li{
+font-size: 4vw;
+line-height: 1.5;
+margin-left: 15px;
+}
+.absol{
+	margin-top: 2vw;
+	position: static;
+	width: 170%;
+}
+.min{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1.2vw;
+line-height: 1.8;
+color: #444444;
+text-transform: none;
+}
+.end{
+margin-top: 3vw;
+line-height: 1.5;
+font-size: 1.3vw;
+}
+.endTitle{
+font-family: 'Philosopher';
+font-weight: 400;
+font-size: 2.5vw;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.endText{
+padding: 2vw;
+font-size: 4vw;
+}
+.endLeft{
+padding-inline-start: 1vw;
+}
+.endFoto{
+ width: 50%;
+}
+.ulGor{
+display: flex;
+flex-direction: row;
+}
+.tipical{
+margin: 5vw 5vw 0 5vw;
+display: flex;
+flex-direction: row;
+display: flex;
+align-items: center;
+}
+
+	}

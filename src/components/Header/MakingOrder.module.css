@@ -1,0 +1,89 @@
+.main{
+	margin: 5vw 5vw 0 5vw;
+	font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 4vw;
+color: #444444;
+text-transform: uppercase;
+}
+.korzina{
+	display: flex;
+	flex-direction: column;
+border: 1px solid #82C9DC;
+margin-top: 3vw;
+}
+.buy{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 1.5vw;
+color: #444444;
+text-transform: none;
+margin-top: 4vw;
+}
+.type{
+	display: flex;
+	flex-direction: row;
+	font-weight: 400;
+	margin-top: 2vw;
+	font-size: 1.2vw;
+}
+.type label{
+	margin-right: 2vw;
+}
+.data{
+width: 100%;
+border: 1px solid #D9D9D9;
+padding-left: 0.5vw;
+color:#444444;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1vw;
+line-height: 2;
+text-transform: none;
+resize: none;
+}
+.info{
+margin-top: 4vw;
+width: 80%;
+display: flex;
+flex-direction: column;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1.5vw;
+line-height: 2;
+text-transform: none;
+color: #828282;
+}
+.zakaz{
+font-family: 'Philosopher';
+cursor: pointer;
+background-color: #82C9DC;
+padding: 1vw 3vw 1vw 3vw;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 4vw;
+border: none;
+}
+.allData{
+	display: flex;
+	flex-direction: row;
+}
+.allNumbs{
+	display: flex;
+	flex-direction: row;
+}
+.numbsColumn{
+	display: flex;
+	flex-direction: column;
+}
+.error{
+	color: red;
+	font-size: 1vw;
+}

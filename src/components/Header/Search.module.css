@@ -1,0 +1,23 @@
+.search{
+	border: 1px #444444 solid;
+	border-radius: 5px;
+	animation: openSearch 1s 1;
+	font-size: 1vw;
+	padding: 1vw 2vw 1vw 2vw;
+font-family: 'Montserrat';
+outline:none;
+}
+@keyframes openSearch{
+	0%{
+	transform: translateX(-20px);
+	opacity: 0;
+	}	
+	100%{
+	opacity: 1;
+	}
+}
+.searchCross{
+height: 1.3vw;
+margin: auto;
+padding-left: 0.2vw;
+}

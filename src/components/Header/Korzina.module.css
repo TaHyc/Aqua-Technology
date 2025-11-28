@@ -1,0 +1,55 @@
+.up{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.main{
+margin: 5vw 5vw 15vw 5vw;
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 4vw;
+color: #444444;
+text-transform: uppercase;
+
+}
+.clear{
+	cursor: pointer;
+	border: 1px solid #444444;
+	font-size: 1.5vw;
+	padding: 0.5vw 3vw 0.5vw 3vw;
+	position: absolute;
+	margin-left: 74.9vw;
+	margin-top: 1.3vw;
+}
+.korzina{
+	display: flex;
+	flex-direction: column;
+border: 1px solid #82C9DC;
+margin-top: 3vw;
+}
+.UpKorzina{
+height: 5vw;
+background: #82C9DC;
+font-family: 'Montserrat';
+font-weight: 500;
+font-size: 1.2vw;
+display: flex;
+flex-direction: row;
+color: #FFFFFF;
+align-items: center;
+text-transform: none;
+}
+.zakaz{
+font-family: 'Philosopher';
+cursor: pointer;
+background-color: #82C9DC;
+padding: 1vw 3vw 1vw 3vw;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 4vw;
+}
+

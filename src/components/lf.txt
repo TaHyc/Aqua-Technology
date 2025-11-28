@@ -1,0 +1,72 @@
+[
+ {
+  "foto": "https://e-pool.by/upload/resize_cache/iblock/c47/450_450_140cd750bba9870f18aada2478b24840a/c479749d8405a1219a1ee56f1b38e98c.jpeg",
+  "title": "Фильтр ARIONA POOLS OCEAN 510 - 10,2 М³/Ч",
+  "art": "FDOC400TR02",
+  "price": 1490,
+  "rating": 42,
+  "Item1Properti": 0,
+  "id": "0",
+  "have": 0
+ },
+ {
+  "foto": "https://e-pool.by/upload/resize_cache/iblock/8c2/450_450_140cd750bba9870f18aada2478b24840a/8c2acd73f6d6c08c18cdb555f0504158.jpg",
+  "title": "Фильтр ARIONA POOLS OCEAN 680 - 18,4 М³/Ч",
+  "art": "FDOC400TR04",
+  "price": 2323,
+  "rating": 66,
+  "Item1Properti": 0,
+  "id": "1",
+  "have": 0
+ },
+ {
+  "foto": "https://e-pool.by/upload/iblock/9fc/9fcb2ccdc1c01648ac447cce8e22b277.png",
+  "title": "Фильтр EMAUX V350 Ø355мм",
+  "art": "88010101",
+  "price": 559,
+  "rating": 22,
+  "Item1Properti": 0,
+  "id": "2",
+  "have": 1
+ },
+ {
+  "foto": "https://e-pool.by/upload/iblock/21e/21e90a27cfee400763727727d02c19a3.jpg",
+  "title": "Фильтр ARIONA POOLS PACIFIC TOP 400 - 6,5 М³/Ч",
+  "art": "FDPA400BTVT01",
+  "price": 1135,
+  "rating": 120,
+  "Item1Properti": 0,
+  "id": "3",
+  "have": 1
+ },
+ {
+  "foto": "https://e-pool.by/upload/resize_cache/iblock/0a5/450_450_140cd750bba9870f18aada2478b24840a/0a58e7e0838ea1748673fca1826c61eb.jpg",
+  "title": "Фильтрационная емкость ARIONA POOLS BARENT 750мм, с боковым клапаном",
+  "art": "FDBA10750TTBZ01",
+  "price": 4530,
+  "rating": 22,
+  "Item1Properti": 1,
+  "id": "4",
+  "have": 1
+ },
+ {
+  "foto": "https://e-pool.by/upload/resize_cache/iblock/0a5/450_450_140cd750bba9870f18aada2478b24840a/0a58e7e0838ea1748673fca1826c61eb.jpg",
+  "title": "Фильтрационная емкость ARIONA POOLS BARENT 620мм, с боковым клапаном",
+  "art": "FDBA10620TTBZ01",
+  "price": 4165,
+  "rating": 22,
+  "Item1Properti": 1,
+  "id": "5",
+  "have": 1
+ },
+ {
+  "foto": "https://e-pool.by/upload/resize_cache/iblock/0a5/450_450_140cd750bba9870f18aada2478b24840a/0a58e7e0838ea1748673fca1826c61eb.jpg",
+  "title": "Фильтрационная емкость ARIONA POOLS BARENT 900мм, с боковым клапаном",
+  "art": "FDBA10900TTBZ01",
+  "price": 5710,
+  "rating": 220,
+  "Item1Properti": 1,
+  "id": "6",
+  "have": 0
+ }
+]

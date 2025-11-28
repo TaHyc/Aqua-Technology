@@ -1,0 +1,98 @@
+.main{
+display: flex;
+flex-direction: column;
+text-align: center;
+padding-top: 10vw;
+padding-bottom: 10vw;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 2vw;
+line-height: 2;
+color: #444444;
+}
+.minTitle{
+	font-size: 1.8vw;
+	font-weight: 400;
+	margin-bottom: 2vw;
+}
+.button{
+	margin: auto;
+	width: 15vw;
+	background-color: #82C9DC;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-family: 'Philosopher';
+	line-height: 1.5;
+	padding: 1vw 3vw 1vw 3vw;
+	font-weight: 500;
+}
+.mainBxog{
+	text-align: center;
+	margin-top: 4vw;
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 4vw;
+color: #444444;
+}
+.login{
+margin-top: 3vw;
+display: flex;
+flex-direction: column;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 2vw;
+color: #828282;
+}
+.login input{
+	margin-top: 0.5vw;
+	margin-bottom: 0.5vw;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 2vw;
+color: #828282;
+}
+.MainLogin{
+	margin: auto;
+	width: 40%;
+}
+.buttons{
+	display: flex;
+	flex-direction: column;
+}
+.buttonLogin{
+border: none;
+width: 40%;
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 1.8vw;
+text-transform: uppercase;
+color: #FFFFFF;
+background: #82C9DC;
+padding: 1.5% 4% 1.5% 4%;
+margin: auto;
+margin-top: 1vw;
+}
+.goodLogin{
+display: flex;
+flex-direction: column;
+text-align: center;
+margin-top: 12vw;
+margin-bottom: 17vw;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 1.5vw;
+text-transform: uppercase;
+color: #444444;
+}
+.goodLogin img{
+	margin: auto;
+	width: 20vw;
+	padding-bottom: 4vw;
+}
+
